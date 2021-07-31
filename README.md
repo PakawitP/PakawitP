@@ -1,4 +1,3 @@
-![alt text](https://firebasestorage.googleapis.com/v0/b/mylift-90495.appspot.com/o/TuFOe.png?alt=media&token=6e6393b9-2801-402f-b77a-2e74c5f4e8af "Logo Title Text 1")
 <img src="https://firebasestorage.googleapis.com/v0/b/mylift-90495.appspot.com/o/TuFOe.png?alt=media&token=6e6393b9-2801-402f-b77a-2e74c5f4e8af" alt="drawing" width="200"/>
 
 
