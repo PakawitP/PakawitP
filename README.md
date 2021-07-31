@@ -5,7 +5,7 @@
 พอรู้เรื่องต่าง ๆ อยู่บ้าง คือ
 
 
-<details>
+
   <summary><b>:computer: &nbsp;เรื่องที่พอรู้อยู่บ้าง</b></summary>
   <br/>
 
@@ -30,7 +30,7 @@
 ![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
 ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
 
-</details>
+
 
 
 <p align="center">
