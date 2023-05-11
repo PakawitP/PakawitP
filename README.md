@@ -1,5 +1,5 @@
 <img src="image/O25.gif"></img>
-<p style="background-color:#FFFFFF">Lorem ipsum...</p>
+<p style="background-color:#FFFFFF"></p>
 
 # สวัสดีจ้า👋
 
